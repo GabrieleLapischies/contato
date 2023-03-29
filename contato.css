@@ -1,0 +1,46 @@
+
+body{
+    margin: 0px;
+    box-sizing: border-box;
+}
+form#forma{
+    width:23%;
+}
+
+fieldset.espacamentoAbaixo{
+    margin: 15px;
+    font-family: ' Verdana', sans-serif;
+}
+
+fieldset#boxIdentificacao{
+    background-image: url('../img/e-mail.png');
+    background-repeat: no-repeat;
+}
+
+#idNome{
+    padding: 1px;
+    width: 45%;
+}
+#idSenha{
+    padding: 1px;
+    width: 20%;
+}
+#idEmail{
+    width: 68%;
+}
+
+fieldset#boxSexo{
+    width:  40%;
+    height: 20%;
+    margin: 5%;
+}
+#idTextarea{
+    width: 85%;
+}
+
+
+fieldset#boxBotoes{
+    margin: 15px;
+    font-family: ' Verdana', sans-serif;
+    padding: 8px;
+}
